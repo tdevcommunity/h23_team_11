@@ -5,41 +5,39 @@
 
 # Description du Projet :
 
- Introduction :
+ **Introduction :**
  L'application TogoCulture vise à créer un espace numérique interactif pour célébrer et documenter l'histoire riche et la culture vibrante du Togo. Elle servira de plateforme éducative et informative pour les résidents locaux ainsi que pour les touristes souhaitant explorer la diversité culturelle togolaise.
 ![cap1](https://github.com/tdevcommunity/h23_team_11/assets/56256658/ad6311aa-5a30-4735-bd3f-41f58b94e02e)
 
- **Documentation Historique :** 
+  # *Documentation Historique :* 
  L'application contiendra une vaste base de données comprenant des informations historiques détaillées sur le Togo, couvrant les événements, les personnalités, les mouvements culturels et les moments clés de l'histoire du pays. Des documents d'archives, des photographies, des vidéos et des récits historiques seront disponibles.
 
- **Documentation Culturelle :** 
+# *Documentation Culturelle :** 
  En plus de l'histoire, l'application documentera la richesse culturelle du Togo, y compris l'art, la musique, la danse, la cuisine, la mode, les traditions et les festivals. Des galeries d'art, des extraits sonores de musique traditionnelle et des tutoriels sur les danses traditionnelles seront disponibles pour une immersion complète.
 ![cap2](https://github.com/tdevcommunity/h23_team_11/assets/56256658/e4be00ed-90c2-4d8a-8b32-12f3f6f14793)
 
- **Cartes Interactives :** 
+# *Cartes Interactives :** 
  L'application inclura des cartes interactives permettant aux utilisateurs de localiser des sites historiques, des musées, des festivals, des restaurants et d'autres lieux culturels à travers tout le Togo. Ces cartes aideront les touristes à planifier leur voyage et à découvrir des trésors cachés.
 
- **Actualités Culturelles :** 
+# *Actualités Culturelles :*
  Un flux d'actualités culturelles en temps réel permettra aux utilisateurs de rester informés sur les événements culturels à venir, les expositions, les festivals et les conférences. Les utilisateurs pourront également partager leurs propres expériences culturelles.
 
- **Section Éducative :** 
+# *Section Éducative :*
  L'application offrira des modules éducatifs interactifs pour les étudiants, les chercheurs et les passionnés de culture togolaise. Des cours en ligne, des quiz et des ressources pédagogiques seront mis à disposition pour approfondir les connaissances.
-![cap3](https://github.com/tdevcommunity/h23_team_11/assets/56256658/cc4dcf70-564b-4df6-bcb9-9900148113a6)
 
- **Participation Communautaire :** 
+# *Participation Communautaire :*
  Les utilisateurs pourront contribuer en soumettant des informations, des photos, des récits familiaux, des recettes et d'autres éléments culturels. Cela permettra de préserver la culture togolaise de manière collaborative.
 
- **Multilinguisme :** 
+# *Multilinguisme :* 
  Pour garantir l'accessibilité, l'application sera disponible en plusieurs langues, y compris l'Éwé, le Français et l'Anglais.
 
- **Promotion Touristique :** 
+# *Promotion Touristique :*
  Outre la documentation culturelle, l'application encouragera le tourisme en mettant en avant les attractions culturelles et historiques du Togo, incitant ainsi les voyageurs à découvrir le pays de manière plus immersive.
-![cap4](https://github.com/tdevcommunity/h23_team_11/assets/56256658/4698795e-5ac5-4e32-b8f9-2c12373dc634)
 
- **Partenariats Culturels :** 
+# *Partenariats Culturels :*
  L'application collaborera avec des institutions culturelles, des musées, des universités et des organisations locales pour garantir la précision des informations et la promotion de la culture togolaise.
 
- **Développement Durable :** 
+# *Développement Durable :*
  Le projet sera conçu de manière écologique, en mettant l'accent sur la préservation de l'environnement et la promotion des pratiques durables, conformément aux valeurs culturelles du Togo.
 
 L'application TogoCulture sera un outil précieux pour la préservation de l'identité culturelle du Togo tout en favorisant l'éducation, le tourisme et la sensibilisation. Elle contribuera à renforcer le lien entre les Togolais et à partager la richesse de la culture togolaise avec le monde entier.
